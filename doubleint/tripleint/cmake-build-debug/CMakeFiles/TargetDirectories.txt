@@ -1,0 +1,3 @@
+P:/cppDemos/tripleint/cmake-build-debug/CMakeFiles/tripleint.dir
+P:/cppDemos/tripleint/cmake-build-debug/CMakeFiles/edit_cache.dir
+P:/cppDemos/tripleint/cmake-build-debug/CMakeFiles/rebuild_cache.dir
